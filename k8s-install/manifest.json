@@ -1,0 +1,9 @@
+{
+    "workshoptitle": "Kubernetes install",
+    "tutorials": [
+        {
+            "title": "Lab 1: kubernetes install",
+            "filename": "./k8s-install.md"
+        }
+    ]
+}
